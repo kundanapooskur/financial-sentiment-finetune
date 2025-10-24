@@ -65,3 +65,8 @@ artifacts/
 ## Ethics/Limitations
 - Financial sentiment has ambiguity and hedging language; include notes in report.
 - Consider stronger models (`roberta-base`), class weighting, or focal loss if needed.
+
+![DB](https://github.com/user-attachments/assets/a2dc96eb-d7d4-40ad-bcbc-360af1f107e2)
+
+
+
